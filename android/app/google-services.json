@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "438164550528",
+    "project_id": "lojav1-27ad5",
+    "storage_bucket": "lojav1-27ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438164550528:android:76f604bdabd82635d40765",
+        "android_client_info": {
+          "package_name": "com.zago.loja_virtual_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438164550528-8tv3tv2r3383mq2ov9dp5lldgeotbt3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr1buuuRRc1x0JuT4UNbMw8u08s2FRj1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438164550528-8tv3tv2r3383mq2ov9dp5lldgeotbt3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
